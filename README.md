@@ -11,7 +11,6 @@ I'm a full stack developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andrespinto57)
 
 
-## Other Common Github Profile Sections
 👩‍💻 I'm currently working as Freelance
 
 🧠 I'm currently learning NextJs 13, AWS, AnimeJs and Gsap.
@@ -40,6 +39,10 @@ Adobe XD, Figma, Illustrator, Wordpress, Prestashop, Shopify
 ### Server Management:
 Google Cloud, Digital Ocean, Ionos, Nginx, Plesk, cPanel, DNS, domain management.
 
+## Tech Stack
 
+**Client:** React, Redux, Sass | Styled Components
+
+**Server:** Node, Express, MongoDB | Postgre
 
 ![Logo](https://mir-s3-cdn-cf.behance.net/user/230/28d97812304377.5552a7c526710.jpg)
