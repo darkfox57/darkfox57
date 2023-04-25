@@ -2,7 +2,13 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I am a graphic designer and web developer with experience in front-end technologies such as React, JavaScript, Sass, Less, Bootstrap, WordPress, PrestaShop, Visual Composer, Elementor, and Adobe XD.
+
+I have skills in digital marketing platforms such as MailChimp, Facebook Ads, Google Ads, Tag Manager, Google Shopping, and Analytics.
+
+Additionally, I have expertise in developing web positioning strategies using tools like Woorank, Moz, Schema, Search Console, and SEMrush.
+
+My focus is on creating attractive and effective digital solutions to enhance the user experience and achieve business objectives.
 
 
 ## 🔗 Links
