@@ -25,7 +25,9 @@ andres.pinto.n@gmail.com
 
 I'm a huge fan of Star Wars and Game of Thrones
 
-![Logo](https://media2.giphy.com/media/0z26d3AwndyZi43LDv/giphy.gif?cid=ecf05e47sj5yk19f4o3mwiwyc01cge2v86y96aq8n5ve1mk0&rid=giphy.gif&ct=g)
+
+
+![Logo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E5ODFiMmY3M2U4NDZkMjBhYzZiMDIxMWM4NmM2MTIxMGI4OTVhOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/d2W7bVyiSwhaKgE0/giphy.gif)
 
 ## 🛠 Skills
 
