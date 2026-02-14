@@ -34,7 +34,7 @@ I am a technical leader with over **12 years of experience** transforming busine
 ### 🎮 Beyond the Code
 * **Currently working as:** Senior AI Architect & Full Stack Consultant.
 * **Languages:** Spanish (Native), English (C1 Certified - LISC Australia).
-* **Gaming:** You might find me as **DarkFox** in *Rainbow Six Siege*, *Valorant*, or *Lineage 2*.
+* **Gaming:** You might find me as **DarkFox** in *cs:go*, *Rainbow Six: Siege*, *Valorant*, or *Lineage 2*.
 * **Fun Fact:** Huge fan of *Star Wars* and *Game of Thrones*.
 
 ![Logo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E5ODFiMmY3M2U4NDZkMjBhYzZiMDIxMWM4NmM2MTIxMGI4OTVhOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/d2W7bVyiSwhaKgE0/giphy.gif)
