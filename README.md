@@ -41,4 +41,4 @@ I am a technical leader with over **12 years of experience** transforming busine
 
 ![Logo](https://mir-s3-cdn-cf.behance.net/user/230/28d97812304377.5552a7c526710.jpg)
 
-⭐*Technical Portfolio & Full Career Path: [andrespinto.me](https://www.andrespinto.me)* [cite: 7, 74]
+*Technical Portfolio & Full Career Path: [andrespinto.me](https://www.andrespinto.me)* 
