@@ -1,28 +1,28 @@
 # Hi, I'm Andrés Pinto! 👋 
 ### **Senior Full Stack Engineer & AI Solutions Architect**
 
-⭐I am a technical leader with over **12 years of experience** transforming business processes through technology[cite: 13, 34]. ⭐Currently, I specialize in architecting **Generative AI** ecosystems and **Autonomous Agents** that drive operational efficiency and high-scale performance[cite: 13, 35].
+I am a technical leader with over **12 years of experience** transforming business processes through technology. Currently, I specialize in architecting **Generative AI** ecosystems and **Autonomous Agents** that drive operational efficiency and high-scale performance.
 
 ## 🚀 Key Highlights
-* ⭐**AI Innovation:** Designed and deployed an agent ecosystem based on **AWS Bedrock (Claude)**, achieving an **80% reduction** in customer service operational load at **DatiLab**[cite: 15, 45].
-* ⭐**Enterprise Scale:** Expert in **Next.js (App Router)**, **TypeScript**, and **GraphQL** for international markets, including major migrations in France[cite: 36, 52].
-* ⭐**Business Impact:** Proven track record leading technical strategy and development for global brands like **GoPro, Polar, Zeiss, and Yokohama**[cite: 16, 57].
+* **AI Innovation:** Designed and deployed an agent ecosystem based on **AWS Bedrock (Claude)**, achieving an **80% reduction** in customer service operational load at **DatiLab**.
+* **Enterprise Scale:** Expert in **Next.js (App Router)**, **TypeScript**, and **GraphQL** for international markets, including major migrations in France.
+* **Business Impact:** Proven track record leading technical strategy and development for global brands like **GoPro, Polar, Zeiss, and Yokohama**.
 
 ## 🛠 Skills & Tech Stack
 
 ### **Artificial Intelligence & Automation**
-⭐`AWS Bedrock` `OpenAI` `LangChain` `RAG` `Autonomous Agents` `n8n` `Make` [cite: 88]
+`AWS Bedrock` `OpenAI` `LangChain` `RAG` `Autonomous Agents` `n8n` `Make`
 
 ### **Frontend & Backend Development**
-⭐`Next.js` `React` `TypeScript` `Node.js` `GraphQL` `PostgreSQL` `Prisma` `Tailwind CSS` [cite: 89, 90]
+`Next.js` `React` `TypeScript` `Node.js` `GraphQL` `PostgreSQL` `Prisma` `Tailwind CSS`
 
 ### **Infrastructure & E-commerce**
-⭐`AWS` `Vercel` `Odoo ERP Integration` `Strapi` `Shopify` `Server Management (NGINX/DNS)` [cite: 90, 91]
+`AWS` `Vercel` `Odoo ERP Integration` `Strapi` `Shopify` `Server Management (NGINX/DNS)`
 
 ## 📈 Recent Impact
-- ⭐**DatiLab (Colombia):** Architected the technical bridge between **WhatsApp Cloud API and Odoo ERP** for real-time synchronization[cite: 46].
-- ⭐**International (France):** Led the modernization of e-commerce platforms (Mesdessous/1001Boutiques), optimizing **Core Web Vitals** and AI-driven SEO[cite: 50, 52, 53].
-- ⭐**Strategic Consulting:** Long-term partner for **KV Marketing**, migrating legacy ecosystems to modern Headless architectures[cite: 58].
+- **DatiLab (Colombia):** Architected the technical bridge between **WhatsApp Cloud API and Odoo ERP** for real-time synchronization.
+- **International (France):** Led the modernization of e-commerce platforms (Mesdessous/1001Boutiques), optimizing **Core Web Vitals** and AI-driven SEO.
+- **Strategic Consulting:** Long-term partner for **KV Marketing**, migrating legacy ecosystems to modern Headless architectures.
 
 ## 🔗 Connect with me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.andrespinto.me)
@@ -32,12 +32,10 @@
 ---
 
 ### 🎮 Beyond the Code
-* ⭐**Currently working as:** Senior AI Architect & Full Stack Consultant[cite: 26, 34, 55].
-* ⭐**Languages:** Spanish (Native), English (C1 Certified - LISC Australia)[cite: 85, 87].
+* **Currently working as:** Senior AI Architect & Full Stack Consultant.
+* **Languages:** Spanish (Native), English (C1 Certified - LISC Australia).
 * **Gaming:** You might find me as **DarkFox** in *Rainbow Six Siege*, *Valorant*, or *Lineage 2*.
 * **Fun Fact:** Huge fan of *Star Wars* and *Game of Thrones*.
-
-
 
 ![Logo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E5ODFiMmY3M2U4NDZkMjBhYzZiMDIxMWM4NmM2MTIxMGI4OTVhOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/d2W7bVyiSwhaKgE0/giphy.gif)
 
